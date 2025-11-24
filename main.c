@@ -8,7 +8,7 @@ int b  ;
 char scelta ; 
 
 printf("+)somma \n");
-printf("-)addizione \n");
+printf("-)differenza \n");
 printf("*)moltiplicazione \n");
 scanf("%c" , &scelta ) ;
 printf("inserisci il primo valore \n"); 
@@ -45,4 +45,5 @@ printf("il risultato e %d\n " , ris) ;
 
 
     return 0 ; 
+
 }
